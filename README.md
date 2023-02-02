@@ -1,5 +1,4 @@
 # Streamlit-based Web Application
-#### EXPLORE Data Science Academy Classification Predict
 
 This Project is about the analyses of users view towards climate change using twitter and the user's Tweets. Decifering the tweets and retweets to retrive prediction using model building of various models. 
 
@@ -164,4 +163,3 @@ This section of the repo will be periodically updated to represent common questi
 
 We wish you all the best in your learning experience :rocket:
 
-![Explore Data Science Academy](resources/imgs/EDSA_logo.png)
